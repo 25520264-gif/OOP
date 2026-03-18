@@ -5,9 +5,10 @@ int main()
 {
     int t, m;
     cout<< "Nhap tu: ";  cin>> t;    // Nhap 6
-    cout<< "Nhap mau: ";             // Nhap 9
+    cout<< "Nhap mau: ";             
 
-    while( cin>> m)    // Kiem mau khac 0
+    // Kiem mau khac 0
+    while( cin>> m)    // Nhap 9
     {
         if(m != 0) break;
         cout<< "Nhap mau: ";    
