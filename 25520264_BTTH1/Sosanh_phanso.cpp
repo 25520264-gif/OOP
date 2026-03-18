@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a, b, m ,n;
-    cout<< "Nhap tu 1: ";cin>> a;
+    cout<< "Nhap tu 1: ";cin>> a;    
     cout<< "Nhap mau 1: ";
     while( cin>> b)
     {
