@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int t, m;
-    cout<< "Nhap tu: ";  cin>> t;    // Nhap 6
+    cout<< "Nhap tu: ";  cin>> t;    // Nhập 6
     cout<< "Nhap mau: ";             // Nhap 9
 
     while( cin>> m)    // Kiem mau khac 0
